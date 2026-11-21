@@ -1,0 +1,16 @@
+# Secrets
+.env
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Uploaded files and generated data
+backend/uploads/
+uploads/
+
+# Local environment
+.DS_Store
